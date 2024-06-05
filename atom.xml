@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-05-31T13:27:40.587Z</updated>
+  <updated>2024-06-05T08:55:32.187Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高考倒计时网页源代码</title>
+    <link href="https://blog.xingchencloud.top/p/c5b89f9a.html"/>
+    <id>https://blog.xingchencloud.top/p/c5b89f9a.html</id>
+    <published>2024-06-05T08:11:49.000Z</published>
+    <updated>2024-06-05T08:55:32.187Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一些闲言碎语&quot;&gt;&lt;a href=&quot;#一些闲言碎语&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>中二病也要谈恋爱追番报告</title>
@@ -484,31 +509,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Hadoop课程" scheme="https://blog.xingchencloud.top/categories/Hadoop%E8%AF%BE%E7%A8%8B/"/>
-    
-    
-    <category term="Hadoop课程" scheme="https://blog.xingchencloud.top/tags/Hadoop%E8%AF%BE%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Centos7-JDK1.8.0_144安装教程</title>
-    <link href="https://blog.xingchencloud.top/p/a508658c.html"/>
-    <id>https://blog.xingchencloud.top/p/a508658c.html</id>
-    <published>2024-03-22T03:44:36.000Z</published>
-    <updated>2024-05-21T11:30:13.285Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot;</summary>
         
       
     
