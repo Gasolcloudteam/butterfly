@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-06-07T16:30:35.734Z</updated>
+  <updated>2024-06-09T23:25:52.488Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Docker镜像构建与跨平台使用(Hexo)</title>
+    <link href="https://blog.xingchencloud.top/p/4e711f50.html"/>
+    <id>https://blog.xingchencloud.top/p/4e711f50.html</id>
+    <published>2024-06-09T22:46:09.000Z</published>
+    <updated>2024-06-09T23:25:52.488Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;关于Docker-Hub事件&quot;&gt;&lt;a href=&quot;#关于Docker-Hub事件&quot; class=&quot;headerlink&quot; title=&quot;关于Docker Hub事件&quot;&gt;&lt;/a&gt;关于Docker</summary>
+        
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>高考倒计时网页源代码</title>
@@ -493,31 +518,6 @@
     <category term="软件教程" scheme="https://blog.xingchencloud.top/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/"/>
     
     <category term="大学乐跑" scheme="https://blog.xingchencloud.top/tags/%E5%A4%A7%E5%AD%A6%E4%B9%90%E8%B7%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Centos7安装Hadoop-3.1.4教程</title>
-    <link href="https://blog.xingchencloud.top/p/510c26d4.html"/>
-    <id>https://blog.xingchencloud.top/p/510c26d4.html</id>
-    <published>2024-03-30T06:49:00.000Z</published>
-    <updated>2024-05-21T11:30:05.154Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Hadoop课程" scheme="https://blog.xingchencloud.top/categories/Hadoop%E8%AF%BE%E7%A8%8B/"/>
-    
-    
-    <category term="Hadoop课程" scheme="https://blog.xingchencloud.top/tags/Hadoop%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
