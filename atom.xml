@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-06-10T13:32:47.708Z</updated>
+  <updated>2024-06-19T13:20:44.086Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Cloudflare Workers反代Google搜索</title>
+    <link href="https://blog.xingchencloud.top/p/22334785.html"/>
+    <id>https://blog.xingchencloud.top/p/22334785.html</id>
+    <published>2024-06-19T12:41:17.000Z</published>
+    <updated>2024-06-19T13:20:44.086Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;关于反代的一些问题&quot;&gt;&lt;a href=&quot;#关于反代的一些问题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>致深爱你的那个我,致我深爱的每个你</title>
@@ -492,31 +517,6 @@
     
     
     <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我们都是旧时代的残党</title>
-    <link href="https://blog.xingchencloud.top/p/a07d5af0.html"/>
-    <id>https://blog.xingchencloud.top/p/a07d5af0.html</id>
-    <published>2024-04-18T06:41:18.000Z</published>
-    <updated>2024-04-22T13:34:39.956Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;发泄一下繁琐生活中的一些恼骚&quot;&gt;&lt;a href=&quot;#发泄一下繁琐生活中的一些恼骚&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="心晴日迹" scheme="https://blog.xingchencloud.top/categories/%E5%BF%83%E6%99%B4%E6%97%A5%E8%BF%B9/"/>
-    
-    
-    <category term="心晴日迹" scheme="https://blog.xingchencloud.top/tags/%E5%BF%83%E6%99%B4%E6%97%A5%E8%BF%B9/"/>
     
   </entry>
   
