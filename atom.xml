@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-06-19T13:20:44.086Z</updated>
+  <updated>2024-06-21T15:35:13.701Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>邻家的天使大人不知不觉把我惯成了废人追番总结</title>
+    <link href="https://blog.xingchencloud.top/p/ce8e7c6b.html"/>
+    <id>https://blog.xingchencloud.top/p/ce8e7c6b.html</id>
+    <published>2024-06-21T15:11:29.000Z</published>
+    <updated>2024-06-21T15:35:13.701Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;作品简介&quot;&gt;&lt;a href=&quot;#作品简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="追番总结" scheme="https://blog.xingchencloud.top/categories/%E8%BF%BD%E7%95%AA%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="追番总结" scheme="https://blog.xingchencloud.top/tags/%E8%BF%BD%E7%95%AA%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>使用Cloudflare Workers反代Google搜索</title>
     <link href="https://blog.xingchencloud.top/p/22334785.html"/>
     <id>https://blog.xingchencloud.top/p/22334785.html</id>
     <published>2024-06-19T12:41:17.000Z</published>
-    <updated>2024-06-19T13:20:44.086Z</updated>
+    <updated>2024-06-19T13:22:40.919Z</updated>
     
     
       
@@ -492,31 +517,6 @@
     
     
     <category term="追番总结" scheme="https://blog.xingchencloud.top/tags/%E8%BF%BD%E7%95%AA%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用Github搭建图床并通过Vercel加速访问</title>
-    <link href="https://blog.xingchencloud.top/p/8f216f43.html"/>
-    <id>https://blog.xingchencloud.top/p/8f216f43.html</id>
-    <published>2024-04-23T11:24:52.000Z</published>
-    <updated>2024-05-14T19:03:20.170Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="技术教程" scheme="https://blog.xingchencloud.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
