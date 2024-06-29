@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-06-28T15:36:06.783Z</updated>
+  <updated>2024-06-29T10:24:23.895Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>写了几个基于Scrcpy安卓直接投屏到电脑的脚本</title>
+    <link href="https://blog.xingchencloud.top/p/226f283.html"/>
+    <id>https://blog.xingchencloud.top/p/226f283.html</id>
+    <published>2024-06-29T09:49:29.000Z</published>
+    <updated>2024-06-29T10:24:23.895Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>flix——轻松实现局域网内跨设备共享</title>
     <link href="https://blog.xingchencloud.top/p/bc6c0476.html"/>
     <id>https://blog.xingchencloud.top/p/bc6c0476.html</id>
     <published>2024-06-28T15:06:38.000Z</published>
-    <updated>2024-06-28T15:36:06.783Z</updated>
+    <updated>2024-06-28T15:36:56.727Z</updated>
     
     
       
@@ -490,31 +515,6 @@
     
     
     <category term="软件教程" scheme="https://blog.xingchencloud.top/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>挑战杯校赛结束，谈谈个人感受</title>
-    <link href="https://blog.xingchencloud.top/p/aba3ffdd.html"/>
-    <id>https://blog.xingchencloud.top/p/aba3ffdd.html</id>
-    <published>2024-05-01T06:50:54.000Z</published>
-    <updated>2024-05-14T16:15:09.021Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;遗憾&quot;&gt;&lt;a href=&quot;#遗憾&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="心晴日迹" scheme="https://blog.xingchencloud.top/categories/%E5%BF%83%E6%99%B4%E6%97%A5%E8%BF%B9/"/>
-    
-    
-    <category term="心晴日迹" scheme="https://blog.xingchencloud.top/tags/%E5%BF%83%E6%99%B4%E6%97%A5%E8%BF%B9/"/>
     
   </entry>
   
