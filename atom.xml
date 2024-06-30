@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-06-29T10:32:36.477Z</updated>
+  <updated>2024-06-30T11:36:20.940Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>通过bat脚本实现hexo常用功能菜单</title>
+    <link href="https://blog.xingchencloud.top/p/e1f74f1.html"/>
+    <id>https://blog.xingchencloud.top/p/e1f74f1.html</id>
+    <published>2024-06-30T10:29:52.000Z</published>
+    <updated>2024-06-30T11:36:20.940Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;广大的Hexo用户：你是否面对每天重复且繁杂的hexo new、hexo new page、hexo g、hexo</summary>
+        
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>写了几个基于Scrcpy安卓直接投屏到电脑的脚本</title>
@@ -490,31 +515,6 @@
     
     
     <category term="心晴日迹" scheme="https://blog.xingchencloud.top/tags/%E5%BF%83%E6%99%B4%E6%97%A5%E8%BF%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PC调用微信OCR识别神器</title>
-    <link href="https://blog.xingchencloud.top/p/f6fc8a17.html"/>
-    <id>https://blog.xingchencloud.top/p/f6fc8a17.html</id>
-    <published>2024-05-03T04:55:17.000Z</published>
-    <updated>2024-05-09T16:04:23.535Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="软件教程" scheme="https://blog.xingchencloud.top/categories/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="软件教程" scheme="https://blog.xingchencloud.top/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
