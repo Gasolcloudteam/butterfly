@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>按钮悬停效果</title>
+<style>
+  /* 设置页面的基本样式 */
+  body {
+    height: 100vh; /* 视口高度 */
+    width: 100vw; /* 视口宽度 */
+    display: flex; /* 使用flex布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    background-color: #212121; /* 背景颜色 */
+  }
+
+  /* 移除默认按钮样式 */
+  .button {
+    margin: 0; /* 移除外边距 */
+    height: auto; /* 高度自适应 */
+    background: transparent; /* 背景透明 */
+    padding: 0; /* 移除内边距 */
+    border: none; /* 移除边框 */
+    cursor: pointer; /* 鼠标样式为指针 */
+  }
+
+  /* 按钮样式 */
+  .button {
+    --border-right: 6px; /* 右边框宽度 */
+    --text-stroke-color: rgba(255,255,255,0.6); /* 文字描边颜色 */
+    --animation-color: #37FF8B; /* 动画颜色 */
+    --fs-size: 2em; /* 字体大小 */
+    letter-spacing: 3px; /* 字间距 */
+    text-decoration: none; /* 移除文本装饰 */
+    font-size: var(--fs-size); /* 字体大小 */
+    font-family: "Arial"; /* 字体 */
+    position: relative; /* 相对定位 */
+    text-transform: uppercase; /* 文本转为大写 */
+    color: transparent; /* 文本颜色透明 */
+    -webkit-text-stroke: 1px var(--text-stroke-color); /* 文字描边 */
+  }
+
+  /* 悬停时显示的文本样式 */
+  .hover-text {
+    position: absolute; /* 绝对定位 */
+    box-sizing: border-box; /* 盒模型 */
+    content: attr(data-text); /* 使用属性值作为内容 */
+    color: var(--animation-color); /* 文本颜色 */
+    width: 0%; /* 初始宽度 */
+    inset: 0; /* 上下左右为0 */
+    border-right: var(--border-right) solid var(--animation-color); /* 右边框样式 */
+    overflow: hidden; /* 超出内容隐藏 */
+    transition: 0.5s; /* 过渡效果 */
+    -webkit-text-stroke: 1px var(--animation-color); /* 文字描边 */
+  }
+
+  /* 悬停状态下的样式 */
+  .button:hover .hover-text {
+    width: 100%; /* 宽度变为100% */
+    filter: drop-shadow(0 0 23px var(--animation-color)); /* 阴影效果 */
+  }
+</style>
+</head>
+<body>
+
+<!-- 按钮结构 -->
+<button class="button" data-text="Awesome">
+    <span class="actual-text">&nbsp;Hello&nbsp;</span>
+    <span aria-hidden="true" class="hover-text">&nbsp;Hello&nbsp;</span>
+</button>
+
+<script>
+// JavaScript代码可以在这里添加
+</script>
+
+</body>
+</html>
