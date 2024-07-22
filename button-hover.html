@@ -34,7 +34,7 @@
     letter-spacing: 3px; /* 字间距 */
     text-decoration: none; /* 移除文本装饰 */
     font-size: var(--fs-size); /* 字体大小 */
-    font-family: "Arial"; /* 字体 */
+    font-family: "Microsoft YaHei", Arial, sans-serif; /* 字体 */
     position: relative; /* 相对定位 */
     text-transform: uppercase; /* 文本转为大写 */
     color: transparent; /* 文本颜色透明 */
@@ -43,21 +43,27 @@
 
   /* 悬停时显示的文本样式 */
   .hover-text {
-    position: absolute; /* 绝对定位 */
-    box-sizing: border-box; /* 盒模型 */
-    content: attr(data-text); /* 使用属性值作为内容 */
-    color: var(--animation-color); /* 文本颜色 */
-    width: 0%; /* 初始宽度 */
-    inset: 0; /* 上下左右为0 */
-    border-right: var(--border-right) solid var(--animation-color); /* 右边框样式 */
-    overflow: hidden; /* 超出内容隐藏 */
-    transition: 0.5s; /* 过渡效果 */
-    -webkit-text-stroke: 1px var(--animation-color); /* 文字描边 */
+  position: absolute; /* 绝对定位 */
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box; /* 盒模型 */
+  content: attr(data-text); /* 使用属性值作为内容 */
+  color: var(--animation-color); /* 文本颜色 */
+  width: 0; /* 初始宽度为0 */
+  border-right: var(--border-right) solid var(--animation-color); /* 右边框样式 */
+  overflow: hidden; /* 超出内容隐藏 */
+  transition: width 0.5s ease; /* 过渡效果 */
+  -webkit-text-stroke: 1px var(--animation-color); /* 文字描边 */
+  text-align: left; /* 文本左对齐 */
+  /* 添加负的 margin-right 来确保文本不会被边框遮挡 */
+  margin-right: calc(-1 * var(--border-right));
   }
 
   /* 悬停状态下的样式 */
   .button:hover .hover-text {
-    width: 100%; /* 宽度变为100% */
+    width: calc(100% + var(--border-right)); /* 宽度变为100%加上右边框的宽度 */
     filter: drop-shadow(0 0 23px var(--animation-color)); /* 阴影效果 */
   }
 </style>
@@ -66,8 +72,8 @@
 
 <!-- 按钮结构 -->
 <button class="button" data-text="Awesome">
-    <span class="actual-text">&nbsp;Hello&nbsp;</span>
-    <span aria-hidden="true" class="hover-text">&nbsp;Hello&nbsp;</span>
+    <span class="actual-text">&nbsp;鼠标放上来试试&nbsp;</span>
+    <span aria-hidden="true" class="hover-text" data-text="Awesome">&nbsp;鼠标放上来试试&nbsp;</span>
 </button>
 
 <script>
