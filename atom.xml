@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-07-22T08:14:27.062Z</updated>
+  <updated>2024-08-06T08:16:03.583Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用CloudFlare-R2-PicList搭建一个免费的高速图床</title>
+    <link href="https://blog.xingchencloud.top/p/e613c591.html"/>
+    <id>https://blog.xingchencloud.top/p/e613c591.html</id>
+    <published>2024-08-06T06:37:11.000Z</published>
+    <updated>2024-08-06T08:16:03.583Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;CloudFlare-R2&quot;&gt;&lt;a href=&quot;#CloudFlare-R2&quot; class=&quot;headerlink&quot; title=&quot;CloudFlare-R2&quot;&gt;&lt;/a&gt;CloudFlare-R2&lt;/h1&gt;&lt;p&gt;Cloudflare</summary>
+        
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="技术教程" scheme="https://blog.xingchencloud.top/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>分享一个不错的前端按钮</title>
@@ -489,32 +514,6 @@
     
     
     <category term="Hadoop课程" scheme="https://blog.xingchencloud.top/tags/Hadoop%E8%AF%BE%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>壁纸分享（新图床节点测试）</title>
-    <link href="https://blog.xingchencloud.top/p/52aa013e.html"/>
-    <id>https://blog.xingchencloud.top/p/52aa013e.html</id>
-    <published>2024-05-08T07:18:24.000Z</published>
-    <updated>2024-06-01T12:33:35.863Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;以后分享更多壁纸请见博客的：&lt;a href=&quot;/wallpaper&quot;&gt;相册-壁纸分区&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="杂七杂八" scheme="https://blog.xingchencloud.top/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
-    
-    
-    <category term="杂七杂八" scheme="https://blog.xingchencloud.top/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
   </entry>
   
