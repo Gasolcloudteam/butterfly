@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-08-10T08:03:03.987Z</updated>
+  <updated>2024-08-17T02:23:21.733Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分享几个大厂接口</title>
+    <link href="https://blog.xingchencloud.top/p/a85709d9.html"/>
+    <id>https://blog.xingchencloud.top/p/a85709d9.html</id>
+    <published>2024-08-17T02:12:52.000Z</published>
+    <updated>2024-08-17T02:23:21.733Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;仅备份个人平时使用的一些接口，平时做网站之类的可以直接调用QQ的头像直链直接使用其作为用户头像。&lt;/p&gt;
+&lt;h2 id=&quot;腾讯QQ&quot;&gt;&lt;a href=&quot;#腾讯QQ&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="杂七杂八" scheme="https://blog.xingchencloud.top/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
+    
+    
+    <category term="杂七杂八" scheme="https://blog.xingchencloud.top/tags/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>使用CloudFlare-R2-PicList搭建一个免费的高速图床</title>
@@ -489,31 +515,6 @@
     
     
     <category term="软件教程" scheme="https://blog.xingchencloud.top/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hadoop分布式文件系统(HDFS)和MapReduce计算框架实训</title>
-    <link href="https://blog.xingchencloud.top/p/c9555748.html"/>
-    <id>https://blog.xingchencloud.top/p/c9555748.html</id>
-    <published>2024-05-10T06:14:44.000Z</published>
-    <updated>2024-05-21T11:30:36.829Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;内容大概&quot;&gt;&lt;a href=&quot;#内容大概&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Hadoop课程" scheme="https://blog.xingchencloud.top/categories/Hadoop%E8%AF%BE%E7%A8%8B/"/>
-    
-    
-    <category term="Hadoop课程" scheme="https://blog.xingchencloud.top/tags/Hadoop%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
