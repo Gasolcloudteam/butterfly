@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-09-26T06:28:32.398Z</updated>
+  <updated>2024-09-26T07:14:53.295Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="https://blog.xingchencloud.top/p/8a0f12d3.html"/>
     <id>https://blog.xingchencloud.top/p/8a0f12d3.html</id>
     <published>2024-09-26T04:47:33.000Z</published>
-    <updated>2024-09-26T06:28:32.398Z</updated>
+    <updated>2024-09-26T07:14:53.295Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h1&gt;&lt;p&gt;由于我们课程使用的环境原因，开始之前，请卸载我们前面安装的新版Vue</summary>
+    <summary type="html">&lt;h1 id=&quot;小插曲镜像配置&quot;&gt;&lt;a href=&quot;#小插曲镜像配置&quot; class=&quot;headerlink&quot; title=&quot;小插曲镜像配置&quot;&gt;&lt;/a&gt;小插曲镜像配置&lt;/h1&gt;&lt;p&gt;如果你的npm拉取软件包缓慢，请配置以下镜像：&lt;/p&gt;
+&lt;figure</summary>
         
       
     
