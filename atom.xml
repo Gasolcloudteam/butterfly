@@ -6,7 +6,7 @@
   <link href="https://blog.xingchencloud.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xingchencloud.top/"/>
-  <updated>2024-09-19T12:43:08.690Z</updated>
+  <updated>2024-09-26T05:20:02.119Z</updated>
   <id>https://blog.xingchencloud.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue脚手架安装到引入iView框架</title>
+    <link href="https://blog.xingchencloud.top/p/8a0f12d3.html"/>
+    <id>https://blog.xingchencloud.top/p/8a0f12d3.html</id>
+    <published>2024-09-26T04:47:33.000Z</published>
+    <updated>2024-09-26T05:20:02.119Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h1&gt;&lt;p&gt;由于我们课程使用的环境原因，开始之前，请卸载我们前面安装的新版Vue</summary>
+        
+      
+    
+    
+    
+    <category term="vue学习" scheme="https://blog.xingchencloud.top/categories/vue%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="vue学习" scheme="https://blog.xingchencloud.top/tags/vue%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>vue学习</title>
@@ -490,31 +515,6 @@
     
     
     <category term="软件教程" scheme="https://blog.xingchencloud.top/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的公众号开通啦！</title>
-    <link href="https://blog.xingchencloud.top/p/68eb426a.html"/>
-    <id>https://blog.xingchencloud.top/p/68eb426a.html</id>
-    <published>2024-05-12T14:00:43.000Z</published>
-    <updated>2024-05-21T11:36:01.786Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;简述&quot;&gt;&lt;a href=&quot;#简述&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="公告" scheme="https://blog.xingchencloud.top/categories/%E5%85%AC%E5%91%8A/"/>
-    
-    
-    <category term="公告" scheme="https://blog.xingchencloud.top/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
